@@ -24,7 +24,8 @@ layers are used. Validation accuracy reached 0.78
 •  Using Batch Normalization, Validation Accuracy dropped to 0.75 and showed no significant improvement
 •  With dropout and 5 Convolutional layers, validation accuracy reached 0.84
 
-
+![landscape-classify](images/landscape-classify1.png)
+![landscape-classify](images/landscape-classify2.png)
 
 Best Accuracy obtained was 84% The prediction suffered when the images categories were overlapping 
 e.g. mountains covered with snow, streets with prominent buildings. Multiple Convolutional 
